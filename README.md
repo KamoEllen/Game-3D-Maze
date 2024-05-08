@@ -33,4 +33,4 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 
 
 ## Demo
-[![The Maze Demo](https://github.com/KamoEllen/Game-3D-Maze/blob/main/game.png)](https://www.youtube.com/embed/code)
+[![The Maze Demo](https://github.com/KamoEllen/Game-3D-Maze/blob/main/game.png)](https://www.youtube.com/watch?v=sp3uA6rvSjw)
